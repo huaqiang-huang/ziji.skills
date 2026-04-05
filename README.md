@@ -2,7 +2,7 @@
 
 # 自己.skills
 
-**Turn your documents, notes, code, chats, and decisions into an evolving AI skill.**
+**把文档、代码、笔记、聊天和历史决策蒸馏成一个可持续进化的 AI Skill。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
