@@ -1,0 +1,30 @@
+[
+  {
+    "account_id": "wxid_demouser",
+    "conversation_id": "chat-demo-1",
+    "conversation_name": "Demo Group",
+    "sender": "alice",
+    "sender_role": "other",
+    "timestamp": "2026-04-05T00:00:00+00:00",
+    "msg_type": "text",
+    "content_text": "这是一个脱敏后的样例消息。",
+    "content_preview": "这是一个脱敏后的样例消息。",
+    "attachments": [],
+    "source_db": "/Users/example/.../message_0.db",
+    "decode_status": "decoded"
+  },
+  {
+    "account_id": "wxid_demouser",
+    "conversation_id": "chat-demo-1",
+    "conversation_name": "Demo Group",
+    "sender": "wxid_demouser",
+    "sender_role": "self",
+    "timestamp": "2026-04-05T00:01:00+00:00",
+    "msg_type": "text",
+    "content_text": "这是第二条样例消息。",
+    "content_preview": "这是第二条样例消息。",
+    "attachments": [],
+    "source_db": "/Users/example/.../message_0.db",
+    "decode_status": "decoded"
+  }
+]

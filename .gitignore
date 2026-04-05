@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+selves/
+
+/tmp/
+/dist/
+/build/
+
+/examples/wechat/manifest.auto.json

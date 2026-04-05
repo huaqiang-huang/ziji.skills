@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-04-05T00:00:00+00:00",
+  "platform": "macos",
+  "roots": [
+    {
+      "path": "/Users/example/Library/Containers/com.tencent.xinWeChat/Data/Documents",
+      "exists": true,
+      "accounts_found": 1
+    }
+  ],
+  "accounts": [
+    {
+      "account_id": "wxid_demouser",
+      "account_dir": "/Users/example/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_demouser_abcd",
+      "db_files": [
+        {
+          "path": "/Users/example/.../db_storage/message/message_0.db",
+          "name": "message_0.db",
+          "size": 32768,
+          "modified_at": "2026-04-05T00:00:00+00:00",
+          "kind": "message"
+        },
+        {
+          "path": "/Users/example/.../db_storage/session/session.db",
+          "name": "session.db",
+          "size": 16384,
+          "modified_at": "2026-04-05T00:00:00+00:00",
+          "kind": "session"
+        }
+      ],
+      "attachment_dirs": [
+        {
+          "path": "/Users/example/.../msg/attach",
+          "name": "attach",
+          "size": 4096,
+          "modified_at": "2026-04-05T00:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

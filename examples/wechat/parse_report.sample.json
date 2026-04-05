@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-05T00:00:00+00:00",
+  "platform": "macos",
+  "accounts_found": 1,
+  "messages_extracted": 2,
+  "db_reports": [
+    {
+      "db_path": "/Users/example/.../db_storage/message/message_0.db",
+      "db_kind": "message",
+      "status": "decoded",
+      "tables": [
+        "message_records"
+      ],
+      "errors": [],
+      "messages_extracted": 2
+    }
+  ],
+  "notes": [
+    "如果 db_report.status 为 unreadable，通常意味着数据库经过加密或当前版本结构不可直接读取。",
+    "此工具不会修改任何微信原目录，只会复制库到临时目录后尝试解析。"
+  ]
+}
